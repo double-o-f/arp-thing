@@ -1,0 +1,18 @@
+Interface: wlp3s0, type: EN10MB, MAC: 50:76:af:b9:37:a0, IPv4: 192.168.1.120
+Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.1.1	a4:cf:d2:66:1f:b3	Ubee Interactive Co., Limited
+192.168.1.33	74:56:3c:b9:7d:4c	GIGA-BYTE TECHNOLOGY CO.,LTD.
+192.168.1.66	2c:76:8a:a9:1e:94	Hewlett Packard
+192.168.1.69	2c:76:8a:a9:1e:97	Hewlett Packard
+192.168.1.69	2c:76:8a:a9:1e:97	Hewlett Packard (DUP: 2)
+192.168.1.151	ea:12:8d:c1:ea:36	(Unknown: locally administered)
+192.168.1.112	f6:46:c6:a4:c9:b0	(Unknown: locally administered)
+192.168.1.207	ac:84:c6:57:4a:65	TP-LINK TECHNOLOGIES CO.,LTD.
+192.168.1.175	54:8c:a0:42:e2:50	Liteon Technology Corporation
+192.168.1.177	da:d7:f6:7b:96:52	(Unknown: locally administered)
+192.168.1.222	f2:a0:70:ad:c9:b9	(Unknown: locally administered)
+192.168.1.239	e0:d4:e8:a0:2b:cf	Intel Corporate
+192.168.1.247	dc:91:bf:06:57:1f	Amazon Technologies Inc.
+
+16 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 256 hosts scanned in 5.168 seconds (49.54 hosts/sec). 12 responded
